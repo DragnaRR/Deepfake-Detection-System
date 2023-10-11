@@ -100,7 +100,11 @@ Accuracy = (TP + TN) / (TP + TN + FP + FN)
 
 ## Web Application
 
-![Flow Chart](https://github.com/DragnaRR/sales-insight/blob/main/screenshots/Market_revenue.PNG)
+![Home Page](https://github.com/DragnaRR/Deepfake-Detection-System/assets/95096810/5127f6a7-6dfa-4b77-9d25-85577ef30164)
+
+![Upload](https://github.com/DragnaRR/Deepfake-Detection-System/assets/95096810/97f6a6d9-1cad-4818-ba0e-db54c861e1c2)
+
+![Result](https://github.com/DragnaRR/Deepfake-Detection-System/assets/95096810/2a983e59-126b-47f9-a4ba-c025079f012e)
 
 
 
