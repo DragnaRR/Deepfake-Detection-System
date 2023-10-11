@@ -27,7 +27,7 @@ Some of the basic libraries that is been used in the project:
 Deepfake dataset was produced with different approach instead of creating deepfake from the beginning which would constrain the diversity and amount of the false data that is then fed to the MesoNet. It is chosen to extract face image from existing false clips. The deepfake dataset was developed by pulling over 175 existing films from well-known deepfake platforms. It is being clarified that particular frames containing faces from deepfake films are being extracted. Similar process is being used to extract real picture data from real film clip source like movies and television shows. It is also explained that the data is being stratified, so that the various angles of the face and levels of resolution were distributed equally throughout the real and deepfake dataset. Deepfake dataset is consisting 7104 images which belongs to 2 classes.
 ## Flow Chart
 
-![Flow Chart](https://github.com/DragnaRR/sales-insight/blob/main/screenshots/Market_revenue.PNG)
+![Flow Chart](https://github.com/DragnaRR/Deepfake-Detection-System/assets/95096810/c71bcd3c-c122-43af-8f97-f6858111725f)
 
 ## Model Architecture
 
