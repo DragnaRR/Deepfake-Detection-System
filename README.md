@@ -35,6 +35,10 @@ Meso-4 network is a convolutional neural network with 4 convolutional block. Eac
 
 ![Meso-4](https://github.com/DragnaRR/Deepfake-Detection-System/assets/95096810/b5feacb8-2313-4f73-936a-768574d3ef2f)
 
+- Total parameters
+
+![parameters](https://github.com/DragnaRR/Deepfake-Detection-System/assets/95096810/13311b56-3f01-43cc-8b8d-0768c3a13969)
+
 ## Confusion Matrix
 
 Confusion matrix is a tabular visualisation of hte ground-truth labels versus model predictions. Each row of matrix represents the instances in a predicted class and each column represents the instances in an actual class. 
@@ -43,7 +47,7 @@ Confusion matrix is a tabular visualisation of hte ground-truth labels versus mo
 | :-------- | :-------- | :-------- | :-------- |
 | 3745 | 2564 | 281 | 514 |
 
-![market revenue](https://github.com/DragnaRR/sales-insight/blob/main/screenshots/Market_revenue.PNG)
+![Confusion Matrix](https://github.com/DragnaRR/Deepfake-Detection-System/assets/95096810/baeecd44-6d1a-4d52-89b6-3b795247fabf)
 
 ## Performance Metrics
 
@@ -77,7 +81,7 @@ F1 Score = 2 X Precision X Recall / (Precision + Recall)
 
 Better known as Area under Receiver operating characteristics curve (AUROC) is a graph between True Positive Rate also known as Recall & False Positive Rate also known as Fallout
 
-![AUC](https://github.com/DragnaRR/sales-insight/blob/main/screenshots/Market_revenue.PNG)
+![AUC](https://github.com/DragnaRR/Deepfake-Detection-System/assets/95096810/07e7ab3e-1ffa-4162-b08f-f0ff08a6e3a9)
 
 ## Accuracy
 
