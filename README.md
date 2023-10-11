@@ -98,6 +98,12 @@ Accuracy = (TP + TN) / (TP + TN + FP + FN)
 | :-------- | :-------- | :-------- | :-------- | :-------- | :-------- |
 | Meso 4 | 96.21 | 83.95 | 07.89 | 15.66 | 88.8 |
 
+- Train Accuracy VS Validation Accuracy
+![Accuracy](https://github.com/DragnaRR/Deepfake-Detection-System/assets/95096810/180bd55b-8613-4389-bf2e-13af7a451ff3)
+
+- Train loss VS Validation loss
+![Loss](https://github.com/DragnaRR/Deepfake-Detection-System/assets/95096810/9945e2d4-fff4-47a0-bfc4-88a733b96312)
+
 ## Web Application
 
 ![Home Page](https://github.com/DragnaRR/Deepfake-Detection-System/assets/95096810/5127f6a7-6dfa-4b77-9d25-85577ef30164)
