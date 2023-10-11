@@ -114,7 +114,8 @@ Accuracy = (TP + TN) / (TP + TN + FP + FN)
 
 ![Result](https://github.com/DragnaRR/Deepfake-Detection-System/assets/95096810/2a983e59-126b-47f9-a4ba-c025079f012e)
 
-[Download Paper](https://github.com/DragnaRR/Deepfake-Detection-System/blob/main/paper.pdf)
+[Download Paper](https://github.com/DragnaRR/Deepfake-Detection-System/files/12874285/paper.pdf)
+
 
 
 
