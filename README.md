@@ -33,7 +33,7 @@ Deepfake dataset was produced with different approach instead of creating deepfa
 
 Meso-4 network is a convolutional neural network with 4 convolutional block. Each block consist of a convolutional layer with batch normalization and a max pooling. Meso-4 works on mesoscopic feature of an image. And the 4 Convulational layers are then connected to fully connected layer for prediction.
 
-![Meso-4](https://github.com/DragnaRR/sales-insight/blob/main/screenshots/Market_revenue.PNG)
+![Meso-4](https://github.com/DragnaRR/Deepfake-Detection-System/assets/95096810/b5feacb8-2313-4f73-936a-768574d3ef2f)
 
 ## Confusion Matrix
 
