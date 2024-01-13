@@ -1,6 +1,6 @@
 # Deepfake Detection System
 
-The idea of deepfake refers to images or videos that are not real and depict evnts that never occured. These deepfakes are created using deep neural network. 
+The idea of deepfake refers to images or videos that are not real and depict events that never occured. These deepfakes are created using deep neural network. 
 
 The develpoment in the field of deepfakes are both astonishing and concerning. Nowadays, the danger of false news are generally recognized. More than 1 billion hours of video footage that are consumed in social media per day. So, spread of falsified video is concerning more than ever before. In inappropiate hands, these tools can be used to disseminate misinformation and can undermine public trust.   
 
